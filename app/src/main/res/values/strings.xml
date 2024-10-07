@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Time Management Project</string>
+
+    <string name="txt_sign_in_title">¡Bienvenido\nde vuelta!</string>
+    <string name="txt_sign_in_email_input">Correo electrónico</string>
+    <string name="txt_sign_in_password_input">Contraseña</string>
+    <string name="txt_sign_in_forgot_password">Olvidé mi contraseña</string>
+    <string name="txt_sign_in_enter_button">ENTRAR</string>
+    <string name="txt_sign_in_dont_have_account">¿No tienes cuenta? </string>
+    <string name="txt_sign_in_register"> Regístrate.</string>
+</resources>
